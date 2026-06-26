@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;background:#f7f1d5;display:flex;justify-content:center;padding:40px}
+.card{background:#fff;padding:24px;border-radius:16px;max-width:500px;width:100%;text-align:center;box-shadow:0 4px 12px rgba(0,0,0,.15)}
+.choice{display:block;width:100%;margin:10px 0;padding:14px;font-size:18px;border:none;border-radius:10px;background:#e8f0ff;cursor:pointer}
+.choice:hover{background:#cfe0ff}#result{font-size:22px;font-weight:bold;height:40px}button{padding:12px 20px}
